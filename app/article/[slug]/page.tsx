@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ArticleCard from "@/components/ArticleCard";
+import CommentSection from "@/components/CommentSection";
 import { getCategory } from "@/lib/categories";
 import {
   getAllSlugs,
@@ -87,6 +88,8 @@ export default async function ArticlePage({
         className="prose-article mt-8 max-w-none text-[17px] leading-relaxed text-navy-800 [&>blockquote]:my-6 [&>blockquote]:border-l-4 [&>blockquote]:border-brand-400 [&>blockquote]:pl-4 [&>blockquote]:italic [&>blockquote]:text-navy-600 [&>p]:mb-5"
         dangerouslySetInnerHTML={{ __html: article.contentHtml }}
       />
+
+      <CommentSection slug={article.slug} />
 
       {related.length > 0 && (
         <section className="mt-16 border-t border-brand-200 pt-10">
