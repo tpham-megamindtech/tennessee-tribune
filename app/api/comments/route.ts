@@ -13,7 +13,15 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Unknown article." }, { status: 400 });
   }
 
-  const comments = await getApprovedComments(slug);
+  let comments;
+  try {
+    comments = await getApprovedComments(slug);
+  } catch (err) {
+    return NextResponse.json(
+      { error: "DEBUG_DB_ERROR", message: err instanceof Error ? err.message : String(err) },
+      { status: 500 }
+    );
+  }
   const now = new Date().toISOString();
   const withDefaults = [
     ...DEFAULT_COMMENTS.map((c) => ({ ...c, createdAt: now })),

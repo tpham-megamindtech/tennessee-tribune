@@ -4,7 +4,8 @@ let pool: Pool | undefined;
 
 function getPool(): Pool {
   if (!pool) {
-    pool = new Pool({ connectionString: process.env.DATABASE_URL });
+    const connectionString = process.env.DATABASE_URL ?? process.env.POSTGRES_URL;
+    pool = new Pool({ connectionString, ssl: { rejectUnauthorized: false } });
   }
   return pool;
 }
