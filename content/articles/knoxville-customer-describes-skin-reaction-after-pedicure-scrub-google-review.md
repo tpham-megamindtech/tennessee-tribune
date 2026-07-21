@@ -2,7 +2,7 @@
 title: "Knoxville Customer Describes Skin Reaction After Pedicure Scrub in Google Review"
 slug: "knoxville-customer-describes-skin-reaction-after-pedicure-scrub-google-review"
 category: "nail-beauty"
-date: "2026-07-21"
+date: "2026-06-21"
 excerpt: "A one-star Google review for La La Nails in Knoxville describes a customer's account of skin irritation after a nail tech scrubbed her feet and ankles with a pumice stone during a routine pedicure."
 coverImage: "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash"
