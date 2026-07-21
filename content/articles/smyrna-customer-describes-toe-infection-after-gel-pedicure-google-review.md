@@ -2,7 +2,7 @@
 title: "Smyrna Customer Describes Toe Infection After Gel Pedicure in Google Review"
 slug: "smyrna-customer-describes-toe-infection-after-gel-pedicure-google-review"
 category: "nail-beauty"
-date: "2026-07-21"
+date: "2026-06-21"
 excerpt: "A one-star Google review for Nails Avenue in Smyrna describes a customer's account of a toe infection following a gel pedicure; the salon has not issued a public response."
 coverImage: "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash"
