@@ -1,0 +1,18 @@
+---
+title: "Rutherford County Holds County-Wide School Supply Drive"
+slug: "murfreesboro-rutherford-county-holds-county-wide-school-supply-drive"
+category: "community"
+date: "2026-05-19"
+excerpt: "Community groups in Murfreesboro organized a county-wide school supply drive."
+coverImage: "https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?auto=format&fit=crop&w=1200&h=800&q=80"
+imageCredit: "Unsplash/Matt Ragland"
+---
+Organizers in Murfreesboro say the event builds on years of grassroots effort to bring neighbors together and support local causes.
+
+"We've put a lot of work into getting this right, and we think people are going to notice the difference," said Kevin Harris, nonprofit director in Murfreesboro.
+
+Last year's turnout topped 3445 attendees, and organizers say they are hoping to top that number this time with an expanded lineup of activities for families.
+
+> "This is exactly the kind of progress our community deserves." — Kevin Harris
+
+Volunteers and sponsors interested in getting involved are encouraged to reach out to organizers ahead of the date.

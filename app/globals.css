@@ -1,26 +1,67 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fffaf3;
+  --foreground: #241c14;
+
+  --color-brand-50: #fff8ec;
+  --color-brand-100: #ffecc9;
+  --color-brand-200: #ffd58c;
+  --color-brand-300: #ffb84f;
+  --color-brand-400: #ff9d24;
+  --color-brand-500: #f97e0b;
+  --color-brand-600: #db5f06;
+  --color-brand-700: #b6440a;
+  --color-brand-800: #92350f;
+  --color-brand-900: #782d10;
+
+  --color-navy-50: #eef2f8;
+  --color-navy-100: #d4dced;
+  --color-navy-200: #a9bade;
+  --color-navy-300: #7a95cb;
+  --color-navy-400: #4f70ac;
+  --color-navy-500: #365589;
+  --color-navy-600: #29426d;
+  --color-navy-700: #1f3255;
+  --color-navy-800: #17253f;
+  --color-navy-900: #101a2e;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-heading);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-brand-50: var(--color-brand-50);
+  --color-brand-100: var(--color-brand-100);
+  --color-brand-200: var(--color-brand-200);
+  --color-brand-300: var(--color-brand-300);
+  --color-brand-400: var(--color-brand-400);
+  --color-brand-500: var(--color-brand-500);
+  --color-brand-600: var(--color-brand-600);
+  --color-brand-700: var(--color-brand-700);
+  --color-brand-800: var(--color-brand-800);
+  --color-brand-900: var(--color-brand-900);
+
+  --color-navy-50: var(--color-navy-50);
+  --color-navy-100: var(--color-navy-100);
+  --color-navy-200: var(--color-navy-200);
+  --color-navy-300: var(--color-navy-300);
+  --color-navy-400: var(--color-navy-400);
+  --color-navy-500: var(--color-navy-500);
+  --color-navy-600: var(--color-navy-600);
+  --color-navy-700: var(--color-navy-700);
+  --color-navy-800: var(--color-navy-800);
+  --color-navy-900: var(--color-navy-900);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+}
+
+.prose-article :where(h2, h3) {
+  font-family: var(--font-heading), Georgia, serif;
 }
