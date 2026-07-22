@@ -2,7 +2,7 @@
 title: "The Cost of Trainees and Token Apologies: When Loyal Customers Turn Their Backs"
 slug: "the-cost-of-trainees-and-token-apologies-when-loyal-customers-turn-their-backs"
 category: "nail-beauty"
-date: "2026-07-20"
+date: "2026-07-10"
 excerpt: "Two very different customer experiences at the same salon reveal how poor training and a token discount can turn loyal clients into vocal critics."
 coverImage: "https://images.unsplash.com/photo-1630843599725-32ead7671867?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Unsplash/Ellie Eshaghi"
@@ -28,5 +28,3 @@ Without hesitation, the customer declared she would absolutely not return and ex
 **Media Expert's Perspective**
 
 Royal Nail Lounge is exposing massive gaps in its Quality Control (QC) and Training protocols. Allowing inexperienced trainees to work on paying clients without strict supervision is essentially treating customers as "guinea pigs." Furthermore, offering a standard 5% discount to compensate for bleeding wounds and botched services is not an apology — it is an insult. When a customer explicitly names a local competitor in their 1-star review, it represents a catastrophic public relations failure.
-
-*Editor's note: Royal Nail Lounge is a fictional name used solely for training and illustrative purposes. This piece does not reference any real business or individual.*
