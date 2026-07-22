@@ -2,7 +2,7 @@
 title: "When the Front Desk Goes Quiet: A Nail Salon Case Study in Overbooking and Lost First Impressions"
 slug: "case-study-nail-salon-overbooking-front-desk-lost-clients"
 category: "nail-beauty"
-date: "2026-07-22"
+date: "2026-06-22"
 excerpt: "A fictional case study of Polished Nail Salon shows how overbooking and an unstaffed front desk pushed loyal clients to publicly name competitors in reviews — and what salon owners can learn from it."
 coverImage: "/images/articles/nail-salon-front-desk-reception.jpg"
 imageCredit: "Vagaro on Unsplash"
