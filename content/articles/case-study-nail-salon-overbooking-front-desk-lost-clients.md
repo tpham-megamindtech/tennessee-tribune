@@ -8,7 +8,7 @@ coverImage: "/images/articles/nail-salon-front-desk-reception.jpg"
 imageCredit: "Vagaro on Unsplash"
 ---
 
-> **Editor's note:** This is a fictional case study created for training and educational purposes only. "Polished Nail Salon" and all names, individuals, dialogue, and events described below are invented for illustration. Any resemblance to actual salons — including the businesses referenced as competitors — is purely coincidental.
+
 
 A single missed greeting rarely closes a business. But in the beauty and wellness industry, where margins depend on repeat visits and word of mouth, a string of small front-of-house failures can do real damage in a single afternoon. This case study walks through a fictional scenario at "Polished Nail Salon" in which overbooking, a silent reception desk, and a mishandled walk-in visit combined to send several longtime clients to the competition — and straight to the salon's own review page to say so.
 
