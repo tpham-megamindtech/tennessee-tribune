@@ -1,11 +1,10 @@
 ---
 title: "Tennessee Shatters Business Filing Record in First Quarter of 2026"
-description: "Nearly 25,000 new businesses registered across the state in Q1, marking a historic high as Tennessee climbs national business rankings."
+slug: "tennessee-record-business-filings-2026"
 category: "finance-business"
-coverImage: "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?q=80&w=1600&auto=format&fit=crop"
 date: "2026-07-22"
-author: "Sarah Whitfield"
-featured: false
+excerpt: "Nearly 25,000 new businesses registered across the state in Q1, marking a historic high as Tennessee climbs national business rankings."
+coverImage: "https://images.unsplash.com/photo-1524230507669-5ff97982bb5e?q=80&w=1600&auto=format&fit=crop"
 imageCredit: "Unsplash/Barnabas Piper"
 ---
 
