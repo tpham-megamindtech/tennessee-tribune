@@ -19,6 +19,4 @@ Although after some argument, Bella Nails Salon had to honor the original $55 pr
 
 Expert Perspective:
 
-The incident at Bella Nails Salon is not an isolated case, but it serves as a costly lesson in the art of customer retention. Arbitrarily adding services without informed consent not only violates the principle of transparency but is also perceived by consumers as a "bait and switch" tactic. In the era of social media and online review platforms, a few dozen dollars in short-term profit can easily cost a business its entire reputation.
-
-Editor's note: Bella Nails Salon is a fictional name used solely for training and illustrative purposes. This piece does not reference any real business or individual.
+The incident at Bella Nails Salon is not an isolated case, but it serves as a costly lesson in the art of customer retention. Arbitrarily adding services without informed consent not only violates the principle of transparency but is also perceived by consumers as a "bait and switch" tactic. In the era of social media and online review platforms, a few dozen dollars in short-term profit can easily cost a business its entire reputation
