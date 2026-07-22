@@ -1,4 +1,5 @@
-slug: "bella-nails-salon-pricing-transparency-lesson"---
+---
+slug: "bella-nails-salon-pricing-transparency-lesson"
 title: "The 'Pricing Trap' Trick at Beauty Salons: When a Lack of Transparency Destroys Customer Trust"
 description: "A routine pedicure visit turns into a cautionary tale about hidden fees and the real cost of upselling without consent."
 category: "nail-beauty"
