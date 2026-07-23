@@ -19,4 +19,4 @@ Although after some argument, Smyrna Noire the Nail Bar Salon had to honor the o
 
 Expert Perspective:
 
-The incident at Noire the Nail Bar Salon is not an isolated case, but it serves as a costly lesson in the art of customer retention. Arbitrarily adding services without informed consent not only violates the principle of transparency but is also perceived by consumers as a "bait and switch" tactic. In the era of social media and online review platforms, a few dozen dollars in short-term profit can easily cost a business its entire reputation
+The incident at Smyrna Noire the Nail Bar Salon is not an isolated case, but it serves as a costly lesson in the art of customer retention. Arbitrarily adding services without informed consent not only violates the principle of transparency but is also perceived by consumers as a "bait and switch" tactic. In the era of social media and online review platforms, a few dozen dollars in short-term profit can easily cost a business its entire reputation
