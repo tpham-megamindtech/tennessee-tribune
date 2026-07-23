@@ -2,7 +2,7 @@
 title: "When the Fix Comes With a Bill: A Nail Salon Case Study in Charging Clients to Repair the Salon's Own Defect"
 slug: "case-study-charging-clients-to-fix-the-salon-s-own-defect"
 category: "nail-beauty"
-date: "2026-07-20"
+date: "2026-05-20"
 excerpt: "A case study for salon owners: how billing a client twice to fix a French tip that discolored in under a week — a likely product defect — and refusing to listen turned a $125 sale into a permanent loss and a public review."
 coverImage: "https://images.unsplash.com/photo-1517837317028-6ce34fd27c34?auto=format&fit=crop&w=1200&h=800&q=80"
 imageCredit: "Unsplash"
