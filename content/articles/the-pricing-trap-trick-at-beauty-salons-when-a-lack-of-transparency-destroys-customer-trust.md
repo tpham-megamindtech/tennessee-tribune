@@ -15,7 +15,7 @@ The customer, who requested anonymity, stated that she was looking for a regular
 
 "When I questioned this and showed them the initial $55 price I had signed up for, the staff explained that they had charged an additional fee for extra callous filing. The problem is I was never informed of, nor did I approve, this extra service," the frustrated customer shared. "I absolutely hate being ambiguously upsold like that."
 
-Although after some argument, Bella Nails Salon had to honor the original $55 price, the damage to the customer experience was irreversible. The customer asserted that the staff's attitude made her uncomfortable and that she would definitely never return. She also mentioned that she quickly found another, more transparent establishment where she gets exactly the service she wants without facing any "upsell" pressure.
+Although after some argument, Smyrna Noire the Nail Bar Salon had to honor the original $55 price, the damage to the customer experience was irreversible. The customer asserted that the staff's attitude made her uncomfortable and that she would definitely never return. She also mentioned that she quickly found another, more transparent establishment where she gets exactly the service she wants without facing any "upsell" pressure.
 
 Expert Perspective:
 
